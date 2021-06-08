@@ -11,13 +11,13 @@ function Navbar() {
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <a className="nav-link active" aria-current="page" href ="#">Work</a>
+                                <a className="nav-link active" aria-current="page" href="">Work</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href ="#" >About</a>
+                                <a className="nav-link" href="" >About</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href ="#">Contact</a>
+                                <a className="nav-link" href="">Contact</a>
                             </li>
                         </ul>
                     </div>
@@ -40,7 +40,7 @@ function Navbar() {
                         </div>   
                     </div>
                     <div className="col-md-6">
-                        <img className ='female'src='https://res.cloudinary.com/dphnzljmv/image/upload/v1623072275/profile/woman-removebg-preview_g0k5fr.png'/>
+                        <img className ='female' alt ="" src='https://res.cloudinary.com/dphnzljmv/image/upload/v1623072275/profile/woman-removebg-preview_g0k5fr.png'/>
                     </div>
                 </div>
                 
