@@ -4,6 +4,7 @@ import { BrowserRouter as Router} from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Navbar from './components/Navbar';
 import Home from './components/Home';
+import Page2 from './components/Page2'
 
 function App() {
   return (
@@ -17,6 +18,11 @@ function App() {
         <switch>
           <Router path="/Home">
             <Home/>
+          </Router>
+        </switch>
+        <switch>
+          <Router path="/Page2">
+            <Page2/>
           </Router>
         </switch>
       </div>
