@@ -19,7 +19,7 @@ function Home() {
                         </div>   
                     </div>
                     <div className="col-md-6">
-                        <img className ='female' alt ="" src='https://res.cloudinary.com/dphnzljmv/image/upload/v1623072275/profile/woman-removebg-preview_g0k5fr.png'/>
+                        <img className ='female' alt ="" src='https://res.cloudinary.com/dphnzljmv/image/upload/v1623326436/walling-OvLXbURo9Wo-unsplash_ypdcuq.jpg'/>
                     </div>
                 </div>
                 

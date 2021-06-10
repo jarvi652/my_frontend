@@ -20,10 +20,10 @@ function Navbar() {
                                     <Link className="nav-link active"  to="/Page2">Work</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link" to="/" >About</Link>
+                                    <Link className="nav-link active" to="/Page3" >About</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link" to="/">Contact</Link>
+                                    <Link className="nav-link active" to="/">Contact</Link>
                                 </li>
                             </ul>
                         </div>

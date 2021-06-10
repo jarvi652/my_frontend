@@ -4,7 +4,7 @@ function Page2() {
     return(
         <div className='container2'>
             <h3 className='pg2'>Selected Projects</h3>
-            <div className='row midas'>
+            <div className='row'>
               <div className="col-md-4 ">
                   <img  className='gitimages' alt="" src="https://res.cloudinary.com/dphnzljmv/image/upload/v1623270728/marvin-meyer-SYTO3xs06fU-unsplash_b3ack8.jpg"/>
                 <h4>OVERWOOD CHALLENGE</h4>
