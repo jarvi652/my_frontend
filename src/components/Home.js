@@ -18,10 +18,12 @@ function Home() {
                             <button type="button" className='btn btn-secondary'>RESUME</button>
                         </div>   
                     </div>
-                    <div className="col-md-6">
+                    {/*<div className="col-md-6">
                         <img className ='female' alt ="" src='https://res.cloudinary.com/dphnzljmv/image/upload/v1623326436/walling-OvLXbURo9Wo-unsplash_ypdcuq.jpg'/>
-                    </div>
+                    </div>  */}
+                      
                 </div>
+    
                 
         </div>
     )
