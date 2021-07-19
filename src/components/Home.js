@@ -15,7 +15,7 @@ function Home() {
                         <h5 className='title'>
                             A web developer
                         </h5>
-                            <button type="button" className='btn btn-secondary'>RESUME</button>
+                            
                         </div>   
                     </div>
                     {/*<div className="col-md-6">
